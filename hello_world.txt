@@ -1,3 +1,4 @@
 I am a hello world machine!
 
 Testing the new commit message editor
+Still testing...
